@@ -25,12 +25,12 @@ Vertically integrated biomanufacturing layer for industrial hemp, bamboo, and re
 
 
 ##
-Bioverge/
-├── core/                  # biorefinery orchestration
-├── battery/               # Three-Phase chemistry & BESS
-├── bioplastics/           # composite formulations
-├── carbon/                # sequestration & biochar models
-├── phytoremediation/      # soil remediation pipelines
-├── docs/                  # technical specifications
-└── integration/           # AIP0 + Icarus APIs
+# Bioverge/
+# ├── core/                  # biorefinery orchestration
+# ├── battery/               # Three-Phase chemistry & BESS
+# ├── bioplastics/           # composite formulations
+# ├── carbon/                # sequestration & biochar models
+# ├── phytoremediation/      # soil remediation pipelines
+# ├── docs/                  # technical specifications
+# └── integration/           # AIP0 + Icarus APIs
 
